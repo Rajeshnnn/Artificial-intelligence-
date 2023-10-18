@@ -10,4 +10,4 @@ Usage
 Modify the X (email text) and y (labels) variables in the spam_classifier.py file with your own dataset to train the classifier with your data.
 Contributing
 
-Feel free to contribute to this project. Contributions that improve the functionality, performance, or documentation are welcome. Create a pull request to get started!
+Feel free to contribute to this project. Contributions that improve the functionality, performance, or documentation are welcome. Create a pull request to get started
